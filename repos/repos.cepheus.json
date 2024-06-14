@@ -5,7 +5,7 @@
       "repo": "https://github.com/Laulan56/android_kernel_xiaomi_sm8150/",
       "branch": "miui",
       "device": "cepheus",
-      "defconfig": "vendor/sm8150_defconfig"
+      "defconfig": "cepheus_stock_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
