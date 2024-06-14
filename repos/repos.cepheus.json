@@ -9,18 +9,18 @@
     },
     "withKernelSU": true,
     "toolchains": [
-  {
+    {
       "repo": "https://github.com/LineageOS/android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9/",
       "branch": "lineage-19.1",
       "name": "gcc",
       "binPath": ["bin"]
     },
-  {
+    {
     "url": "https://github.com/ZyCromerZ/Clang/releases/download/12.0.1-20230207-release/Clang-12.0.1-20230207.tar.gz",
     "name": "clang",
     "binPath": ["./bin"]
-  }
-],
+    }
+  ],
     "params": {
       "ARCH": "arm64",
       "CROSS_COMPILE": "aarch64-linux-gnu-",
@@ -29,8 +29,7 @@
       "CLANG_TRIPLE": "aarch64-linux-gnu-",
       "AR": "",
       "CC": "clang"
-    }
-  },
+    },
     "AnyKernel3": {
       "use": true,
       "release": true,
