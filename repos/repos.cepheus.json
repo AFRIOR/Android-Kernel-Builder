@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "Chopin_KernelSU_Proton",
-      "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_cepheus",
-      "branch": "thirteen",
+      "name": "Morisia_KernelSU_Proton",
+      "repo": "https://github.com/Laulan56/android_kernel_xiaomi_sm8150",
+      "branch": "miui",
       "device": "cepheus",
       "defconfig": "cepheus_defconfig"
     },
