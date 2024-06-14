@@ -20,7 +20,7 @@
     "name": "clang",
     "binPath": ["./bin"]
   }
-]
+],
     "params": {
       "ARCH": "arm64",
       "CC": "clang13/clang/host/linux-x86/clang-r428724/bin/clang",
